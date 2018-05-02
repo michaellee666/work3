@@ -215,3 +215,7 @@ def svm(X_train,y_train,X_test,y_test):
     print(roc_auc_score(y_test,svm_probas[:,1]))
 
     aucroc(svm_probas,y_test)
+    
+    
+if __name__ == "__main__":    
+    randomf(X_train,y_train,X_test,y_test)
