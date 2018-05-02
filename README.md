@@ -9,4 +9,4 @@
    将train，weather，spray三个表合并成一个表，处理后的数据表存储为csv文件，以供分类和聚类使用。  
 ## 2.分类聚类  
    分类模型使用`支持向量机Support Vector Machine`,`随机森林`
-
+   ![](https://github.com/michaellee666/work1/blob/master/a2.png)  
