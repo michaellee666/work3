@@ -8,6 +8,7 @@
    目标干预的效果是在时间和距离两个维度上衰减，关心的参考位置是Trap，计算时间和距离两个维度的喷雾衰减。  
    将train，weather，spray三个表合并成一个表，处理后的数据表存储为csv文件，以供分类和聚类使用。  
 ## 2.分类聚类  
-   分类模型使用`支持向量机Support Vector Machine`,`随机森林`  
+   分类模型使用`随机森林`  
    ![](https://github.com/michaellee666/work3/blob/master/RandomForest.png)  
+   `支持向量机Support Vector Machine`
    ![](https://github.com/michaellee666/work3/blob/master/SVM.png)  
